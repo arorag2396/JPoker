@@ -1,3 +1,5 @@
+package com.ai.jpoker;
+
 public class Poker {
 
 	public static void main(String []args) {
